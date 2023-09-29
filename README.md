@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/jpmagiero/">
-  <img alt="LinkdeIN" width="35px" src="https://icons8.com/icon/98960/linkedin" />
+  <img alt="LinkdeIN" width="35px" src="linkedIn.png" />
 </a>
 
 - 🔭 Always learning new things
@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **TypeScript, NodeJS**
 
 - 📫 How to reach me **jpaulomr12@gmail.com**
-
 
 </p>
 
@@ -25,4 +24,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpmagiero&show_icons=true&locale=en&layout=compact" alt="jpmagiero" /></p>
-
