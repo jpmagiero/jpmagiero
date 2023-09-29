@@ -5,13 +5,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/jpmagiero/">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="LinkdeIN" width="35px" src="https://icons8.com/icon/98960/linkedin" />
 </a>
-
-<a href="https://www.instagram.com/jpmagiero/">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-
 
 - 🔭 Always learning new things
 
