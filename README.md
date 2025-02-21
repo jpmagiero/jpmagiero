@@ -16,8 +16,8 @@ I'm constantly improving my English skills while expanding my knowledge in web a
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpmagiero&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpmagiero" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jpmagiero&show_icons=true&theme=dark&locale=en" alt="jpmagiero" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmagiero&layout=compact&langs_count=7&theme=dark" alt="jpmagiero" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jpmagiero&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="jpmagiero" />
 </div>
 <br/>
 
