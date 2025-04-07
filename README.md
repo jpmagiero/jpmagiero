@@ -83,9 +83,6 @@ I'm constantly improving my English skills while expanding my knowledge in web a
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-    </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
     </a>
